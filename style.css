@@ -1,0 +1,42 @@
+.jumbotron {
+  padding-top: 12rem;
+  background-color: #e2edff;
+}
+#galery {
+  background-color: #e2edff;
+  padding-top: 6rem;
+}
+
+#skil {
+  background-color: #e2edff;
+}
+
+.follow {
+  font-size: 20px;
+  font-style: italic;
+}
+
+.me {
+  padding-top: 2rem;
+  font-size: 7px;
+}
+
+#about {
+  padding-top: 15rem;
+}
+
+#hobby {
+  padding-top: 6rem;
+}
+
+#skil {
+  padding-top: 4rem;
+}
+
+#contact {
+  padding-top: 6rem;
+}
+
+.btn btn-primary {
+  text-align: justify;
+}
