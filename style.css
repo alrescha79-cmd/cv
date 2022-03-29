@@ -37,3 +37,7 @@
   padding-top: 6rem;
 }
 
+.spinner-border {
+  margin-top: 4rem;
+  animation-delay: 1s;
+}
