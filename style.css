@@ -2,7 +2,7 @@
   padding-top: 12rem;
   background-color: #e2edff;
 }
-#galery {
+#pendidikan {
   background-color: #e2edff;
   padding-top: 6rem;
 }
@@ -21,7 +21,7 @@
   font-size: 7px;
 }
 
-#about {
+#profil {
   padding-top: 15rem;
 }
 
@@ -38,6 +38,13 @@
 }
 
 .spinner-border {
-  margin-top: 4rem;
+  margin-top: 3rem;
   animation-delay: 1s;
 }
+
+.nav-tabs { 
+  background-color: #ffffff7f;
+  border-radius: 10px;
+}
+
+
