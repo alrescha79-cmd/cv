@@ -43,8 +43,9 @@
 }
 
 .nav-tabs { 
-  background-color: #ffffff7f;
+  border-style: unset;
   border-radius: 11px;
 }
+
 
 
